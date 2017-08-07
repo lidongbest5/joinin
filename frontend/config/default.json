@@ -1,0 +1,12 @@
+{
+  "app": {
+    "title": "Join In - 让世界更懂你",
+    "baseUrl": ""
+  },
+  "browser": "google chrome",
+  "service": {
+    "mock": false,
+    "api_regex": "/api",
+    "api_gateway": "http://localhost:8000/api"
+  }
+}
